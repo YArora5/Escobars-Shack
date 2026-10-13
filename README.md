@@ -1,76 +1,22 @@
-# 🍔 Escobar's Shack
+# Escobar's Shack — Website Prototype
 
-An animated and responsive café website designed for **Escobar's Shack**, a late-night food spot near Law Gate, Punjab.
+This repository currently contains the project README only. The React/Vite source code, assets, and build configuration are not present on the default branch, so a reviewer cannot run or verify the website from this repository yet.
 
-The website features a bold dark street-food theme with smooth animations, interactive food menus, popular dishes, customer reviews, café information, and location details.
+## Before presenting this as a completed project
 
----
+1. Commit the actual application source (`src/`, `public/`, `package.json`, and lockfile) and remove any private client data.
+2. Add a working demo URL and screenshots captured from the running site.
+3. Include setup instructions that work from a clean clone.
+4. Verify every menu item, map link, mobile navigation interaction, and responsive breakpoint.
+5. Only publish ratings, review counts, opening hours, addresses, and customer testimonials when they are verified and you have permission to use them. Otherwise label them as sample/demo content.
 
-## ✨ Features
+## Recommended README structure once the source is published
 
-- Animated hero section
-- Dark street-food inspired design
-- Smooth scrolling animations
-- Popular food items section
-- Interactive menu categories
-- Veg and non-veg food options
-- Burger, pizza, wrap and dessert menus
-- Late-night café section
-- Café information and animated statistics
-- Customer reviews section
-- Location and opening-hour details
-- Google Maps directions
-- Responsive navigation bar
-- Working mobile hamburger menu
-- Fully responsive design
+- Project goal and your individual contribution
+- Screenshots and live demo
+- Tech stack and architecture
+- Features that have actually been tested
+- Local installation and run instructions
+- Known limitations and next steps
 
----
-
-## 🛠️ Technologies Used
-
-- React.js
-- Vite
-- JavaScript
-- CSS3
-- Framer Motion
-- Lucide React
-
----
-
-## 🍕 Menu Categories
-
-- Veg Combos
-- Non-Veg Combos
-- Pizzas
-- Chicken
-- Burgers
-- Wraps
-- Desserts
-
----
-
-## 📍 Location
-
-**Escobar's Shack**
-
-Shop No. 48, Green Valley Plaza,  
-Law Gate Road, near Simar Tower,  
-Maheru, Punjab – 144411
-
----
-
-## ⭐ Café Information
-
-- Rating: **4.9 ⭐**
-- Reviews: **61+**
-- Average Cost: **₹200–₹400 per person**
-- Open until: **2:00 AM**
-
----
-
-## 🚀 Run the Project Locally
-
-Clone the repository:
-
-```bash
-git clone YOUR-GITHUB-REPOSITORY-LINK
+**Current status: source not published; not yet reviewable as a software portfolio project.**
